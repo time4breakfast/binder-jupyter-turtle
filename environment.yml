@@ -3,9 +3,8 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
-  - notebook=6.5  # klassische Notebook-Version für ipyturtle
+  - notebook=6.5
   - ipywidgets=7.7
-  - ipyturtle
   - pip
   - pip:
       - ipyturtle
