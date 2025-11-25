@@ -1,4 +1,4 @@
-# Minimal Binder C language example
+# Jupyter Turtle
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ohm-efi-professorfreudenreich/jupyter-binder-turtle/HEAD?labpath=index.ipynb)
 
